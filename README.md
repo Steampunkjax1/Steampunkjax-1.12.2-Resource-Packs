@@ -1,4 +1,4 @@
-# Steampunkjax-Pack-2.0
+# Steampunkjax-Texture-Pack-2.0
 Still in Development
 
 Pack made By Steampunkjax
